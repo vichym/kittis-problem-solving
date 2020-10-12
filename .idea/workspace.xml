@@ -20,15 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="16b915f4-c31b-4d2a-9d34-4685e12269f6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BoundingRobot/boundingrobot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BreakPrison/Prison.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Guessing Game/GuessingGame.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semafori/semafori2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pangram/pangram.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Kattis Problems.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Kattis Problems.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GlitchBot/GlitchBot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReverseString/ReverseString.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/peragram/peragram.py" beforeDir="false" afterPath="$PROJECT_DIR$/peragram/peragram.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Guessing Game/GuessingGame.py" beforeDir="false" afterPath="$PROJECT_DIR$/Guessing Game/GuessingGame.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Roaming Romans/RoamingRomans.py" beforeDir="false" afterPath="$PROJECT_DIR$/Roaming Romans/RoamingRomans.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +59,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="kite.configurable" />
   </component>
-  <component name="RunManager" selected="Python.GuessingGame">
+  <component name="RunManager" selected="Python.ReverseString">
     <configuration name="Compound Words" type="PythonConfigurationType" factoryName="Python">
       <module name="Kattis Problems" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -84,6 +80,27 @@
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="true" />
       <option name="INPUT_FILE" value="$PROJECT_DIR$/Compound Words/input.txt" />
+      <method v="2" />
+    </configuration>
+    <configuration name="GlitchBot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Kattis Problems" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GlitchBot" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GlitchBot/GlitchBot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <configuration name="GuessingGame" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -128,7 +145,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="boundingrobot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ReverseString" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Kattis Problems" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -136,32 +153,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BoundingRobot" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ReverseString" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BoundingRobot/boundingrobot.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pangram (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Kattis Problems" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pangram" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pangram/pangram.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ReverseString/ReverseString.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -193,19 +189,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.Compound Words" />
-      <item itemvalue="Python.boundingrobot" />
       <item itemvalue="Python.semafori2" />
-      <item itemvalue="Python.pangram (1)" />
       <item itemvalue="Python.Prison" />
       <item itemvalue="Python.GuessingGame" />
+      <item itemvalue="Python.GlitchBot" />
+      <item itemvalue="Python.ReverseString" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ReverseString" />
+        <item itemvalue="Python.GlitchBot" />
         <item itemvalue="Python.GuessingGame" />
         <item itemvalue="Python.semafori2" />
         <item itemvalue="Python.Prison" />
-        <item itemvalue="Python.pangram (1)" />
-        <item itemvalue="Python.boundingrobot" />
       </list>
     </recent_temporary>
   </component>
@@ -253,46 +249,46 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="689" height="466" key="DebuggerActiveHint/0.0.1440.900@0.0.1440.900" timestamp="1601854220689" />
-    <state width="1419" height="244" key="GridCell.Tab.0.bottom" timestamp="1602206391876">
+    <state width="1419" height="244" key="GridCell.Tab.0.bottom" timestamp="1602471794157">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="244" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1602206391876" />
+    <state width="1419" height="244" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1602471794157" />
     <state width="1379" height="217" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1600998585724" />
-    <state width="1419" height="244" key="GridCell.Tab.0.center" timestamp="1602206391871">
+    <state width="1419" height="244" key="GridCell.Tab.0.center" timestamp="1602471794156">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="244" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1602206391871" />
+    <state width="1419" height="244" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1602471794156" />
     <state width="1379" height="217" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1600998585723" />
-    <state width="1419" height="244" key="GridCell.Tab.0.left" timestamp="1602206391870">
+    <state width="1419" height="244" key="GridCell.Tab.0.left" timestamp="1602471794155">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="244" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1602206391870" />
+    <state width="1419" height="244" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1602471794155" />
     <state width="1379" height="217" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1600998585720" />
-    <state width="1419" height="244" key="GridCell.Tab.0.right" timestamp="1602206391874">
+    <state width="1419" height="244" key="GridCell.Tab.0.right" timestamp="1602471794157">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="244" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1602206391874" />
+    <state width="1419" height="244" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1602471794157" />
     <state width="1379" height="217" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1600998585723" />
-    <state width="1419" height="459" key="GridCell.Tab.1.bottom" timestamp="1602206145308">
+    <state width="764" height="530" key="GridCell.Tab.1.bottom" timestamp="1602470345544">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="459" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1602206145308" />
-    <state width="1419" height="459" key="GridCell.Tab.1.center" timestamp="1602206145307">
+    <state width="764" height="530" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1602470345544" />
+    <state width="764" height="530" key="GridCell.Tab.1.center" timestamp="1602470345542">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="459" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1602206145307" />
-    <state width="1419" height="459" key="GridCell.Tab.1.left" timestamp="1602206145306">
+    <state width="764" height="530" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1602470345542" />
+    <state width="764" height="530" key="GridCell.Tab.1.left" timestamp="1602470345541">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="459" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1602206145306" />
-    <state width="1419" height="459" key="GridCell.Tab.1.right" timestamp="1602206145307">
+    <state width="764" height="530" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1602470345541" />
+    <state width="764" height="530" key="GridCell.Tab.1.right" timestamp="1602470345543">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="459" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1602206145307" />
-    <state x="221" y="79" key="SettingsEditor" timestamp="1601234720530">
+    <state width="764" height="530" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1602470345543" />
+    <state x="221" y="79" key="SettingsEditor" timestamp="1602447436719">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="221" y="79" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1601234720530" />
+    <state x="221" y="79" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1602447436719" />
     <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1600992638150" />
     <state width="600" height="428" key="javadoc.popup" timestamp="1601234783070">
       <screen x="0" y="0" width="1440" height="900" />
@@ -347,6 +343,11 @@
           <line>3</line>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/GlitchBot/GlitchBot.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -356,5 +357,11 @@
         </breakpoint>
       </default-breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="self.lowest" language="Python" />
+        <watch expression="self.highest" language="Python" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
